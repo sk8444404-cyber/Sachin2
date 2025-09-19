@@ -1,0 +1,16 @@
+<section id="earn">
+  <div class="card">
+    <h2>Start Earning Online</h2>
+    <p>Here are some recommended tools and programs to help you earn money from home:</p>
+    <ul>
+      <li>💻 <a href="https://www.upwork.com" target="_blank">Join Upwork for Freelancing</a></li>
+      <li>📝 <a href="https://www.fiverr.com" target="_blank">Start on Fiverr</a></li>
+      <li>💰 <a href="https://affiliate-program.amazon.com/" target="_blank">Amazon Affiliate Program</a></li>
+      <li>📚 <a href="https://www.udemy.com/" target="_blank">Learn & Sell Courses on Udemy</a></li>
+    </ul>
+    <p>Ads Section (Google AdSense or other networks):</p>
+    <div style="background:#e0e0e0; padding:20px; text-align:center; border-radius:8px;">
+      <strong>Your Ad Here</strong>
+    </div>
+  </div>
+</section>
